@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(227, 227, 227);
+}
+
+.blogs {
+    text-align: left;
+    margin: 5%;
+    height: 500px;
+    width: 90%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px rgb(103, 103, 103);
+    background-color: rgb(255, 255, 255);
+}
+
+.blogs img{
+    width: 100px;
+    height: 100px;
+}
